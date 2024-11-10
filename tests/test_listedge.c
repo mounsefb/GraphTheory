@@ -1,0 +1,123 @@
+#include "listedge.h"
+
+int main() { edge_t c; listedge_t l1=NULL,l2=NULL, p=NULL;
+  l1=listedge_new();
+  printf("----------------------------------------------\n");
+  printf("test de l'ajout en tete d'un arc et de l'affichage\n");
+  printf("----------------------------------------------\n");
+  printf("Nombre d'arcs : %d\n",listedge_length(l1));
+  printf("-------------------------------\n");
+  c.depart=1; c.arrivee=2; c.cout=2;
+  printf("Ajout en tete de l'arc : "); edge_print(&c); puts("");
+  l1=listedge_add_first(c,l1);
+  printf("Liste l1 : ");    listedge_print(l1);
+  printf("Nombre d'arcs : %d\n",listedge_length(l1));
+  printf("-------------------------------\n");
+  c.depart=2; c.arrivee=3; c.cout=4;
+  printf("Ajout en tete de l'arc : "); edge_print(&c); puts("");
+  l1=listedge_add_first(c,l1);
+  printf("Liste l1 : ");    listedge_print(l1);
+  printf("Nombre d'arcs : %d\n",listedge_length(l1));
+  printf("-------------------------------\n");
+  c.depart=3; c.arrivee=4; c.cout=5;
+  printf("Ajout en tete de l'arc : "); edge_print(&c); puts("");
+  l1=listedge_add_first(c,l1);    printf("Liste l1 : ");    listedge_print(l1);
+  printf("Nombre d'arcs : %d\n",listedge_length(l1));
+  printf("-------------------------------\n");
+  c.depart=4; c.arrivee=5; c.cout=6;
+  printf("Ajout en tete de l'arc : "); edge_print(&c); puts("");
+  l1=listedge_add_first(c,l1);    printf("Liste l1 : ");    listedge_print(l1);
+  printf("Nombre d'arcs : %d\n",listedge_length(l1));
+  printf("-------------------------------\n");
+  c.depart=5; c.arrivee=6; c.cout=7;
+  printf("Ajout en tete de l'arc : "); edge_print(&c); puts("");
+  l1=listedge_add_first(c,l1);    printf("Liste l1 : ");    listedge_print(l1);
+  printf("Nombre d'arcs : %d\n",listedge_length(l1));
+
+  printf("\n----------------------------------------------\n");
+  printf("Test du nombre d'arcs donne dans une liste \n");
+  printf("----------------------------------------------\n");
+  printf("-------------------------------\n");
+  c.depart=1; c.arrivee=2; c.cout=2;
+  printf("Test du nombre d' arc : "); edge_print(&c); puts("");
+  printf("-------------------------------\n");
+  int nb;
+  nb=listedge_count(c,l1);
+  printf("Nombre de "); edge_print(&c); puts("");
+  printf("\ndans la liste : "); listedge_print(l1);
+  printf("l'arc "); edge_print(&c); puts(""); printf(" est present %d fois\n",nb);
+  printf("-------------------------------\n");
+  c.depart=2; c.arrivee=3; c.cout=4;
+  printf("Test du nombre d' arc : "); edge_print(&c); puts("");
+  printf("-------------------------------\n");
+  nb=listedge_count(c,l1);
+  printf("Nombre de "); edge_print(&c);
+  printf(" dans la liste : "); listedge_print(l1);
+  printf("l'arc "); edge_print(&c); printf(" est present %d fois\n",nb);
+
+  l2=listedge_new();
+  printf("\n----------------------------------------------\n");
+  printf("Nouvelle Liste : test de l'ajout en queue d'un arc \n");
+  printf("----------------------------------------------\n");
+  c.depart=1; c.arrivee=2; c.cout=2;
+  printf("Ajout en queue de l'arc : "); edge_print(&c); puts("");
+  l2=listedge_add_last(c,l2);
+  printf("Liste l2 : ");    listedge_print(l2);
+  printf("-------------------------------\n");
+  c.depart=2; c.arrivee=3; c.cout=4;
+  printf("Ajout en queue de l'arc : "); edge_print(&c); puts("");
+  l2=listedge_add_last(c,l2);
+  printf("Liste l2 : ");    listedge_print(l2);
+  printf("-------------------------------\n");
+  c.depart=3; c.arrivee=4; c.cout=5;
+  printf("Ajout en queue de l'arc : "); edge_print(&c); puts("");
+  l2=listedge_add_last(c,l2);
+  printf("Liste l2 : ");    listedge_print(l2);
+  printf("-------------------------------\n");
+  c.depart=4; c.arrivee=5; c.cout=6;
+  printf("Ajout en queue de l'arc : "); edge_print(&c); puts("");
+  l2=listedge_add_last(c,l2);
+  printf("Liste l2 : ");    listedge_print(l2);
+
+
+  printf("\n----------------------------------------------\n");
+  printf("test de la suppression en tete d'un arc dans une liste\n");
+  printf("----------------------------------------------\n");
+  printf("Liste l1 avant suppression "); listedge_print(l1);
+  printf("Suppression en tete\n");
+  if (!listedge_is_empty(l1)) l1=listedge_del_first(l1);
+  printf("Liste l1 : ");    listedge_print(l1);
+  printf("-------------------------------\n");
+  printf("Suppression en tete\n");
+  if (!listedge_is_empty(l1)) l1=listedge_del_first(l1);
+  printf("Liste l1 : ");    listedge_print(l1);
+  printf("-------------------------------\n");
+  printf("Suppression en tete\n");
+  if (!listedge_is_empty(l1)) l1=listedge_del_first(l1);
+  printf("Liste l1 : ");    listedge_print(l1);
+  printf("-------------------------------\n");
+  printf("Suppression en tete\n");
+  if (!listedge_is_empty(l1)) l1=listedge_del_first(l1);
+  printf("Liste l1 : ");    listedge_print(l1);
+  printf("-------------------------------\n");
+  printf("Suppression en tete\n");
+  if (!listedge_is_empty(l1)) l1=listedge_del_first(l1);
+  printf("Liste l1 : ");    listedge_print(l1);
+
+  printf("\n----------------------------------------------\n");
+  printf("Liberation de toutes les listes\n");
+  printf("----------------------------------------------\n");
+  l1=listedge_delete(l1);     l2=listedge_delete(l2);
+
+  printf("\n----------------------------------------------\n");
+  printf("Test de la presence d'un arc dans une liste vide\n");
+  printf("----------------------------------------------\n");
+  c.depart=1; c.arrivee=2; c.cout=2;
+  p=listedge_find(c,l1);
+  printf("Recherche de "); edge_print(&c);
+  printf(" dans la liste l1 : "); listedge_print(l1);
+  if (p==NULL) printf("l'arc n'est pas present\n");
+  else {printf("l'arc est present, c'est une erreur\n"); exit(EXIT_FAILURE);}
+
+ return EXIT_SUCCESS; 
+}

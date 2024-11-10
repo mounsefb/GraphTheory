@@ -1,0 +1,4 @@
+Valeur du PCC de graphes/metro.txt entre Argentine et Ermont-Eaubonne : 1377.175151
+Valeur du PCC de graphes/metro.txt entre Argentine et Villepinte : 2839.619827
+Valeur du PCC de graphes/metro.txt entre Goncourt et Ermont-Eaubonne : 2530.285043
+Valeur du PCC de graphes/metro.txt entre Goncourt et Villepinte : 2624.311925

@@ -1,0 +1,405 @@
+Valeur du PCC de graphes/metro.txt entre La Défense et La Défense : 0.000000
+Valeur du PCC de graphes/metro.txt entre La Défense et Esplanade de la Défense : 88.525367
+Valeur du PCC de graphes/metro.txt entre La Défense et Pont de Neuilly : 186.932656
+Valeur du PCC de graphes/metro.txt entre La Défense et Les Sablons : 281.412629
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte Maillot : 388.662337
+Valeur du PCC de graphes/metro.txt entre La Défense et Argentine : 453.230691
+Valeur du PCC de graphes/metro.txt entre La Défense et Charles de Gaulle, Étoile : 278.218499
+Valeur du PCC de graphes/metro.txt entre La Défense et George V : 596.196857
+Valeur du PCC de graphes/metro.txt entre La Défense et Franklin D. Roosevelt : 691.282285
+Valeur du PCC de graphes/metro.txt entre La Défense et Champs Élysées, Clémenceau : 755.409989
+Valeur du PCC de graphes/metro.txt entre La Défense et Concorde : 844.899155
+Valeur du PCC de graphes/metro.txt entre La Défense et Tuileries : 910.454209
+Valeur du PCC de graphes/metro.txt entre La Défense et Palais Royal, Musée du Louvre : 992.404709
+Valeur du PCC de graphes/metro.txt entre La Défense et Louvre, Rivoli : 1052.105573
+Valeur du PCC de graphes/metro.txt entre La Défense et Châtelet : 1128.940988
+Valeur du PCC de graphes/metro.txt entre La Défense et Hôtel de Ville : 1199.417651
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Paul : 1276.170570
+Valeur du PCC de graphes/metro.txt entre La Défense et Bastille : 1201.830570
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare de Lyon : 750.249195
+Valeur du PCC de graphes/metro.txt entre La Défense et Reuilly Diderot : 1216.389144
+Valeur du PCC de graphes/metro.txt entre La Défense et Nation : 890.349923
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Vincennes : 1357.168987
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Mandé : 1441.762348
+Valeur du PCC de graphes/metro.txt entre La Défense et Bérault : 1496.634531
+Valeur du PCC de graphes/metro.txt entre La Défense et Château de Vincennes : 1608.294822
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte Dauphine : 812.937665
+Valeur du PCC de graphes/metro.txt entre La Défense et Victor Hugo : 735.749693
+Valeur du PCC de graphes/metro.txt entre La Défense et Charles de Gaulle, Étoile : 278.218499
+Valeur du PCC de graphes/metro.txt entre La Défense et Ternes : 707.206748
+Valeur du PCC de graphes/metro.txt entre La Défense et Courcelles : 765.645166
+Valeur du PCC de graphes/metro.txt entre La Défense et Monceau : 834.850128
+Valeur du PCC de graphes/metro.txt entre La Défense et Villiers : 904.316043
+Valeur du PCC de graphes/metro.txt entre La Défense et Rome : 971.782732
+Valeur du PCC de graphes/metro.txt entre La Défense et Place de Clichy : 1052.414406
+Valeur du PCC de graphes/metro.txt entre La Défense et Blanche : 1120.901902
+Valeur du PCC de graphes/metro.txt entre La Défense et Pigalle : 1185.100925
+Valeur du PCC de graphes/metro.txt entre La Défense et Anvers : 1259.152622
+Valeur du PCC de graphes/metro.txt entre La Défense et Barbès Rochechouart : 1327.823403
+Valeur du PCC de graphes/metro.txt entre La Défense et La Chapelle : 1416.769285
+Valeur du PCC de graphes/metro.txt entre La Défense et Stalingrad : 1491.196835
+Valeur du PCC de graphes/metro.txt entre La Défense et Jaurès : 1557.578695
+Valeur du PCC de graphes/metro.txt entre La Défense et Colonel Fabien : 1622.458600
+Valeur du PCC de graphes/metro.txt entre La Défense et Belleville : 1606.848964
+Valeur du PCC de graphes/metro.txt entre La Défense et Couronnes : 1636.579171
+Valeur du PCC de graphes/metro.txt entre La Défense et Ménilmontant : 1569.960225
+Valeur du PCC de graphes/metro.txt entre La Défense et Père Lachaise : 1503.521987
+Valeur du PCC de graphes/metro.txt entre La Défense et Philippe-Auguste : 1443.959620
+Valeur du PCC de graphes/metro.txt entre La Défense et Alexandre Dumas : 1379.278026
+Valeur du PCC de graphes/metro.txt entre La Défense et Avron : 1305.667964
+Valeur du PCC de graphes/metro.txt entre La Défense et Nation : 890.349923
+Valeur du PCC de graphes/metro.txt entre La Défense et Pont de Levallois, Bécon : 1492.050762
+Valeur du PCC de graphes/metro.txt entre La Défense et Anatole France : 1410.089494
+Valeur du PCC de graphes/metro.txt entre La Défense et Louise Michel : 1347.462528
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Champerret : 1275.327773
+Valeur du PCC de graphes/metro.txt entre La Défense et Péreire : 851.299059
+Valeur du PCC de graphes/metro.txt entre La Défense et Wagram : 1303.768176
+Valeur du PCC de graphes/metro.txt entre La Défense et Malesherbes-M3 : 1323.046766
+Valeur du PCC de graphes/metro.txt entre La Défense et Villiers : 904.316043
+Valeur du PCC de graphes/metro.txt entre La Défense et Europe : 1188.355788
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Lazare : 1114.934912
+Valeur du PCC de graphes/metro.txt entre La Défense et Havre Caumartin : 1065.018911
+Valeur du PCC de graphes/metro.txt entre La Défense et Opéra : 1065.018911
+Valeur du PCC de graphes/metro.txt entre La Défense et Quatre Septembre : 1130.386194
+Valeur du PCC de graphes/metro.txt entre La Défense et Bourse : 1192.188572
+Valeur du PCC de graphes/metro.txt entre La Défense et Sentier : 1277.852288
+Valeur du PCC de graphes/metro.txt entre La Défense et Réaumur Sébastopol : 1297.417076
+Valeur du PCC de graphes/metro.txt entre La Défense et Arts et Métiers : 1380.302594
+Valeur du PCC de graphes/metro.txt entre La Défense et Temple : 1468.261234
+Valeur du PCC de graphes/metro.txt entre La Défense et République : 1437.163479
+Valeur du PCC de graphes/metro.txt entre La Défense et Parmentier : 1608.143477
+Valeur du PCC de graphes/metro.txt entre La Défense et Rue Saint-Maur : 1674.320146
+Valeur du PCC de graphes/metro.txt entre La Défense et Père Lachaise : 1503.521987
+Valeur du PCC de graphes/metro.txt entre La Défense et Gambetta : 1854.393677
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Bagnolet : 1936.578040
+Valeur du PCC de graphes/metro.txt entre La Défense et Galliéni : 2018.585941
+Valeur du PCC de graphes/metro.txt entre La Défense et Gambetta : 1854.393677
+Valeur du PCC de graphes/metro.txt entre La Défense et Pelleport : 2270.465042
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Fargeau : 2184.413806
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte des Lilas : 1965.210219
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Clignancourt : 1726.581937
+Valeur du PCC de graphes/metro.txt entre La Défense et Simplon : 1669.135566
+Valeur du PCC de graphes/metro.txt entre La Défense et Marcadet Poissonniers : 1610.617024
+Valeur du PCC de graphes/metro.txt entre La Défense et Château Rouge : 1547.954267
+Valeur du PCC de graphes/metro.txt entre La Défense et Barbès Rochechouart : 1327.823403
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare du Nord : 1058.332276
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare de l'Est : 1412.720120
+Valeur du PCC de graphes/metro.txt entre La Défense et Château d'Eau : 1418.511954
+Valeur du PCC de graphes/metro.txt entre La Défense et Strasbourg Saint-Denis : 1346.423688
+Valeur du PCC de graphes/metro.txt entre La Défense et Réaumur Sébastopol : 1297.417076
+Valeur du PCC de graphes/metro.txt entre La Défense et Étienne Marcel : 1231.549624
+Valeur du PCC de graphes/metro.txt entre La Défense et Les Halles : 1181.226793
+Valeur du PCC de graphes/metro.txt entre La Défense et Châtelet : 1128.940988
+Valeur du PCC de graphes/metro.txt entre La Défense et Cité : 1244.133009
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Michel : 1293.332400
+Valeur du PCC de graphes/metro.txt entre La Défense et Odéon : 1363.573491
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Germain-des-Prés : 1431.106152
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Sulpice : 1488.844014
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Placide : 1559.039908
+Valeur du PCC de graphes/metro.txt entre La Défense et Montparnasse Bienvenue : 1403.257920
+Valeur du PCC de graphes/metro.txt entre La Défense et Vavin : 1708.292404
+Valeur du PCC de graphes/metro.txt entre La Défense et Raspail : 1524.320560
+Valeur du PCC de graphes/metro.txt entre La Défense et Denfert Rochereau : 1246.517582
+Valeur du PCC de graphes/metro.txt entre La Défense et Mouton-Duvernet : 1677.259338
+Valeur du PCC de graphes/metro.txt entre La Défense et Alésia : 1735.887083
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte d'Orléans : 1802.249035
+Valeur du PCC de graphes/metro.txt entre La Défense et Bobigny, Pablo Picasso : 2278.897107
+Valeur du PCC de graphes/metro.txt entre La Défense et Bobigny-Pantin, Raymond Queneau : 2112.638283
+Valeur du PCC de graphes/metro.txt entre La Défense et Église de Pantin : 2003.138149
+Valeur du PCC de graphes/metro.txt entre La Défense et Hoche : 1919.727594
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Pantin : 1825.282821
+Valeur du PCC de graphes/metro.txt entre La Défense et Ourcq : 1750.615418
+Valeur du PCC de graphes/metro.txt entre La Défense et Laumière : 1675.651568
+Valeur du PCC de graphes/metro.txt entre La Défense et Jaurès : 1557.578695
+Valeur du PCC de graphes/metro.txt entre La Défense et Stalingrad : 1491.196835
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare du Nord : 1058.332276
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare de l'Est : 1412.720120
+Valeur du PCC de graphes/metro.txt entre La Défense et Jacques Bonsergent : 1571.562191
+Valeur du PCC de graphes/metro.txt entre La Défense et République : 1437.163479
+Valeur du PCC de graphes/metro.txt entre La Défense et Oberkampf : 1572.223520
+Valeur du PCC de graphes/metro.txt entre La Défense et Richard Lenoir : 1554.985452
+Valeur du PCC de graphes/metro.txt entre La Défense et Bréguet-Sabin : 1499.206336
+Valeur du PCC de graphes/metro.txt entre La Défense et Bastille : 1201.830570
+Valeur du PCC de graphes/metro.txt entre La Défense et Quai de la Rapée : 1350.249195
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare d'Austerlitz : 1350.249195
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Marcel : 1424.895308
+Valeur du PCC de graphes/metro.txt entre La Défense et Campo-Formio : 1484.552207
+Valeur du PCC de graphes/metro.txt entre La Défense et Place d'Italie : 1552.547794
+Valeur du PCC de graphes/metro.txt entre La Défense et Charles de Gaulle, Étoile : 278.218499
+Valeur du PCC de graphes/metro.txt entre La Défense et Kléber : 697.960102
+Valeur du PCC de graphes/metro.txt entre La Défense et Boissière : 770.948588
+Valeur du PCC de graphes/metro.txt entre La Défense et Trocadéro : 836.845413
+Valeur du PCC de graphes/metro.txt entre La Défense et Passy : 904.903032
+Valeur du PCC de graphes/metro.txt entre La Défense et Bir-Hakeim : 963.083416
+Valeur du PCC de graphes/metro.txt entre La Défense et Dupleix : 1026.855973
+Valeur du PCC de graphes/metro.txt entre La Défense et La Motte Picquet, Grenelle : 1100.314758
+Valeur du PCC de graphes/metro.txt entre La Défense et Cambronne : 1157.613858
+Valeur du PCC de graphes/metro.txt entre La Défense et Sèvres Lecourbe : 1250.866541
+Valeur du PCC de graphes/metro.txt entre La Défense et Pasteur : 1310.411316
+Valeur du PCC de graphes/metro.txt entre La Défense et Montparnasse Bienvenue : 1403.257920
+Valeur du PCC de graphes/metro.txt entre La Défense et Edgar Quinet : 1456.577748
+Valeur du PCC de graphes/metro.txt entre La Défense et Raspail : 1524.320560
+Valeur du PCC de graphes/metro.txt entre La Défense et Denfert Rochereau : 1246.517582
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Jacques : 1651.399516
+Valeur du PCC de graphes/metro.txt entre La Défense et Glacière : 1731.708788
+Valeur du PCC de graphes/metro.txt entre La Défense et Corvisart : 1720.013226
+Valeur du PCC de graphes/metro.txt entre La Défense et Place d'Italie : 1552.547794
+Valeur du PCC de graphes/metro.txt entre La Défense et Nationale : 1576.475011
+Valeur du PCC de graphes/metro.txt entre La Défense et Chevaleret : 1510.724402
+Valeur du PCC de graphes/metro.txt entre La Défense et Quai de la Gare : 1434.007082
+Valeur du PCC de graphes/metro.txt entre La Défense et Bercy : 1198.060127
+Valeur du PCC de graphes/metro.txt entre La Défense et Dugommier : 1435.123518
+Valeur du PCC de graphes/metro.txt entre La Défense et Daumesnil : 1453.908758
+Valeur du PCC de graphes/metro.txt entre La Défense et Bel Air : 1380.084125
+Valeur du PCC de graphes/metro.txt entre La Défense et Picpus : 1320.014497
+Valeur du PCC de graphes/metro.txt entre La Défense et Nation : 890.349923
+Valeur du PCC de graphes/metro.txt entre La Défense et La Courneuve, 8 Mai 1945 : 2153.352377
+Valeur du PCC de graphes/metro.txt entre La Défense et Fort d'Aubervilliers : 2075.519523
+Valeur du PCC de graphes/metro.txt entre La Défense et Aubervilliers-Pantin, Quatre Chemins : 1954.503589
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de la Villette : 1872.740858
+Valeur du PCC de graphes/metro.txt entre La Défense et Corentin-Cariou : 1807.542248
+Valeur du PCC de graphes/metro.txt entre La Défense et Crimée : 1730.432740
+Valeur du PCC de graphes/metro.txt entre La Défense et Riquet : 1668.453910
+Valeur du PCC de graphes/metro.txt entre La Défense et Stalingrad : 1491.196835
+Valeur du PCC de graphes/metro.txt entre La Défense et Louis Blanc : 1533.689460
+Valeur du PCC de graphes/metro.txt entre La Défense et Château Landon : 1480.669867
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare de l'Est : 1412.720120
+Valeur du PCC de graphes/metro.txt entre La Défense et Poissonnière : 1325.432707
+Valeur du PCC de graphes/metro.txt entre La Défense et Cadet : 1254.894463
+Valeur du PCC de graphes/metro.txt entre La Défense et Le Peletier : 1194.545646
+Valeur du PCC de graphes/metro.txt entre La Défense et Chaussée d'Antin, La Fayette : 1111.875218
+Valeur du PCC de graphes/metro.txt entre La Défense et Opéra : 1065.018911
+Valeur du PCC de graphes/metro.txt entre La Défense et Pyramides : 1140.075803
+Valeur du PCC de graphes/metro.txt entre La Défense et Palais Royal, Musée du Louvre : 992.404709
+Valeur du PCC de graphes/metro.txt entre La Défense et Pont-Neuf : 1254.642989
+Valeur du PCC de graphes/metro.txt entre La Défense et Châtelet : 1128.940988
+Valeur du PCC de graphes/metro.txt entre La Défense et Pont-Marie : 1235.773742
+Valeur du PCC de graphes/metro.txt entre La Défense et Sully Morland : 1336.537354
+Valeur du PCC de graphes/metro.txt entre La Défense et Jussieu : 1426.633762
+Valeur du PCC de graphes/metro.txt entre La Défense et Place Monge : 1488.907935
+Valeur du PCC de graphes/metro.txt entre La Défense et Censier Daubenton : 1540.904513
+Valeur du PCC de graphes/metro.txt entre La Défense et Les Gobelins : 1602.545527
+Valeur du PCC de graphes/metro.txt entre La Défense et Place d'Italie : 1552.547794
+Valeur du PCC de graphes/metro.txt entre La Défense et Tolbiac : 1746.128762
+Valeur du PCC de graphes/metro.txt entre La Défense et Maison Blanche : 1808.307474
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte d'Italie : 1863.543844
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Choisy : 1928.511078
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte d'Ivry : 1987.063266
+Valeur du PCC de graphes/metro.txt entre La Défense et Pierre Curie : 2072.611489
+Valeur du PCC de graphes/metro.txt entre La Défense et Mairie d'Ivry : 2159.431944
+Valeur du PCC de graphes/metro.txt entre La Défense et le Kremlin-Bicêtre : 1902.448470
+Valeur du PCC de graphes/metro.txt entre La Défense et Villejuif, Léo Lagrange : 1986.958754
+Valeur du PCC de graphes/metro.txt entre La Défense et Villejuif, P. Vaillant Couturier : 2063.116809
+Valeur du PCC de graphes/metro.txt entre La Défense et Villejuif, Louis Aragon : 2148.225554
+Valeur du PCC de graphes/metro.txt entre La Défense et Louis Blanc : 1533.689460
+Valeur du PCC de graphes/metro.txt entre La Défense et Jaurès : 1557.578695
+Valeur du PCC de graphes/metro.txt entre La Défense et Bolivar : 1979.904544
+Valeur du PCC de graphes/metro.txt entre La Défense et Buttes Chaumont : 2056.337506
+Valeur du PCC de graphes/metro.txt entre La Défense et Botzaris : 2133.528918
+Valeur du PCC de graphes/metro.txt entre La Défense et Place des Fêtes : 1816.453725
+Valeur du PCC de graphes/metro.txt entre La Défense et Pré-Saint-Gervais : 2249.571114
+Valeur du PCC de graphes/metro.txt entre La Défense et Danube : 2317.951575
+Valeur du PCC de graphes/metro.txt entre La Défense et Balard : 1788.398284
+Valeur du PCC de graphes/metro.txt entre La Défense et Lourmel : 1729.525635
+Valeur du PCC de graphes/metro.txt entre La Défense et Boucicaut : 1650.035692
+Valeur du PCC de graphes/metro.txt entre La Défense et Félix Faure : 1591.350240
+Valeur du PCC de graphes/metro.txt entre La Défense et Commerce : 1537.215961
+Valeur du PCC de graphes/metro.txt entre La Défense et La Motte Picquet, Grenelle : 1100.314758
+Valeur du PCC de graphes/metro.txt entre La Défense et École Militaire : 1435.328168
+Valeur du PCC de graphes/metro.txt entre La Défense et La Tour-Maubourg : 1370.207611
+Valeur du PCC de graphes/metro.txt entre La Défense et Invalides : 1192.234823
+Valeur du PCC de graphes/metro.txt entre La Défense et Concorde : 844.899155
+Valeur du PCC de graphes/metro.txt entre La Défense et Madeleine : 1146.414925
+Valeur du PCC de graphes/metro.txt entre La Défense et Opéra : 1065.018911
+Valeur du PCC de graphes/metro.txt entre La Défense et Richelieu Drouot : 1138.194448
+Valeur du PCC de graphes/metro.txt entre La Défense et Grands Boulevards : 1195.169396
+Valeur du PCC de graphes/metro.txt entre La Défense et Bonne Nouvelle : 1262.043274
+Valeur du PCC de graphes/metro.txt entre La Défense et Strasbourg Saint-Denis : 1346.423688
+Valeur du PCC de graphes/metro.txt entre La Défense et République : 1437.163479
+Valeur du PCC de graphes/metro.txt entre La Défense et Filles du Calvaire : 1503.259579
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Sébastien-Froissart : 1551.925865
+Valeur du PCC de graphes/metro.txt entre La Défense et Chemin Vert : 1615.898305
+Valeur du PCC de graphes/metro.txt entre La Défense et Bastille : 1201.830570
+Valeur du PCC de graphes/metro.txt entre La Défense et Ledru Rollin : 1631.411795
+Valeur du PCC de graphes/metro.txt entre La Défense et Faidherbe-Chaligny : 1627.931154
+Valeur du PCC de graphes/metro.txt entre La Défense et Reuilly Diderot : 1216.389144
+Valeur du PCC de graphes/metro.txt entre La Défense et Montgallet : 1640.910647
+Valeur du PCC de graphes/metro.txt entre La Défense et Daumesnil : 1453.908758
+Valeur du PCC de graphes/metro.txt entre La Défense et Michel Bizot : 1796.356297
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte Dorée : 1854.463554
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Charenton : 1937.147036
+Valeur du PCC de graphes/metro.txt entre La Défense et Liberté : 2028.871132
+Valeur du PCC de graphes/metro.txt entre La Défense et Charenton-Écoles : 2110.845674
+Valeur du PCC de graphes/metro.txt entre La Défense et École Vétérinaire de Maisons-Alfort : 2201.206110
+Valeur du PCC de graphes/metro.txt entre La Défense et Maisons-Alfort, Stade : 2312.349854
+Valeur du PCC de graphes/metro.txt entre La Défense et Maisons-Alfort les Juilliottes : 2430.162352
+Valeur du PCC de graphes/metro.txt entre La Défense et Créteil-l'Echat : 2506.046994
+Valeur du PCC de graphes/metro.txt entre La Défense et Créteil-Université : 2583.513293
+Valeur du PCC de graphes/metro.txt entre La Défense et Créteil-Préfecture : 2680.137575
+Valeur du PCC de graphes/metro.txt entre La Défense et Pont de Sèvres : 2027.141047
+Valeur du PCC de graphes/metro.txt entre La Défense et Billancourt : 1913.339062
+Valeur du PCC de graphes/metro.txt entre La Défense et Marcel Sembat : 1848.800887
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Saint-Cloud : 1745.808346
+Valeur du PCC de graphes/metro.txt entre La Défense et Exelmans : 1680.187002
+Valeur du PCC de graphes/metro.txt entre La Défense et Michel Ange Molitor : 1624.468156
+Valeur du PCC de graphes/metro.txt entre La Défense et Michel Ange Auteuil : 1562.418341
+Valeur du PCC de graphes/metro.txt entre La Défense et Jasmin : 1490.404542
+Valeur du PCC de graphes/metro.txt entre La Défense et Ranelagh : 1426.450287
+Valeur du PCC de graphes/metro.txt entre La Défense et La Muette : 1370.421495
+Valeur du PCC de graphes/metro.txt entre La Défense et Rue de la Pompe : 1293.772732
+Valeur du PCC de graphes/metro.txt entre La Défense et Trocadéro : 836.845413
+Valeur du PCC de graphes/metro.txt entre La Défense et Iéna : 1226.744465
+Valeur du PCC de graphes/metro.txt entre La Défense et Alma Marceau : 1146.303037
+Valeur du PCC de graphes/metro.txt entre La Défense et Franklin D. Roosevelt : 691.282285
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Philippe du Roule : 1114.860081
+Valeur du PCC de graphes/metro.txt entre La Défense et Miromesnil : 1188.874109
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Augustin : 1134.919847
+Valeur du PCC de graphes/metro.txt entre La Défense et Havre Caumartin : 1065.018911
+Valeur du PCC de graphes/metro.txt entre La Défense et Chaussée d'Antin, La Fayette : 1111.875218
+Valeur du PCC de graphes/metro.txt entre La Défense et Richelieu Drouot : 1138.194448
+Valeur du PCC de graphes/metro.txt entre La Défense et Grands Boulevards : 1195.169396
+Valeur du PCC de graphes/metro.txt entre La Défense et Bonne Nouvelle : 1262.043274
+Valeur du PCC de graphes/metro.txt entre La Défense et Strasbourg Saint-Denis : 1346.423688
+Valeur du PCC de graphes/metro.txt entre La Défense et République : 1437.163479
+Valeur du PCC de graphes/metro.txt entre La Défense et Oberkampf : 1572.223520
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Ambroise : 1533.125682
+Valeur du PCC de graphes/metro.txt entre La Défense et Voltaire : 1473.537202
+Valeur du PCC de graphes/metro.txt entre La Défense et Charonne : 1391.805921
+Valeur du PCC de graphes/metro.txt entre La Défense et Rue des Boulets : 1331.570369
+Valeur du PCC de graphes/metro.txt entre La Défense et Nation : 890.349923
+Valeur du PCC de graphes/metro.txt entre La Défense et Buzenval : 1315.998696
+Valeur du PCC de graphes/metro.txt entre La Défense et Maraîchers : 1376.783098
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Montreuil : 1445.392707
+Valeur du PCC de graphes/metro.txt entre La Défense et Robespierre : 1547.290092
+Valeur du PCC de graphes/metro.txt entre La Défense et Croix de Chavaux : 1638.705372
+Valeur du PCC de graphes/metro.txt entre La Défense et Mairie de Montreuil : 1726.927235
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte d'Auteuil : 1903.538514
+Valeur du PCC de graphes/metro.txt entre La Défense et Michel Ange Molitor : 1624.468156
+Valeur du PCC de graphes/metro.txt entre La Défense et Boulogne, Pont de Saint-Cloud : 2145.021616
+Valeur du PCC de graphes/metro.txt entre La Défense et Boulogne, Jean Jaurès : 2045.017102
+Valeur du PCC de graphes/metro.txt entre La Défense et Chardon Lagâche : 2037.399742
+Valeur du PCC de graphes/metro.txt entre La Défense et Mirabeau : 2112.176207
+Valeur du PCC de graphes/metro.txt entre La Défense et Javel - André Citroen : 1694.995692
+Valeur du PCC de graphes/metro.txt entre La Défense et Charles Michels : 1605.613468
+Valeur du PCC de graphes/metro.txt entre La Défense et Avenue Émile Zola : 1525.908075
+Valeur du PCC de graphes/metro.txt entre La Défense et La Motte Picquet, Grenelle : 1100.314758
+Valeur du PCC de graphes/metro.txt entre La Défense et Ségur : 1542.337452
+Valeur du PCC de graphes/metro.txt entre La Défense et Duroc : 1390.981284
+Valeur du PCC de graphes/metro.txt entre La Défense et Vaneau : 1693.222901
+Valeur du PCC de graphes/metro.txt entre La Défense et Sèvres Babylone : 1464.115458
+Valeur du PCC de graphes/metro.txt entre La Défense et Mabillon : 1753.393444
+Valeur du PCC de graphes/metro.txt entre La Défense et Odéon : 1363.573491
+Valeur du PCC de graphes/metro.txt entre La Défense et Cluny, La Sorbonne : 1614.829712
+Valeur du PCC de graphes/metro.txt entre La Défense et Maubert Mutualité : 1562.382740
+Valeur du PCC de graphes/metro.txt entre La Défense et Cardinal Lemoine : 1497.240435
+Valeur du PCC de graphes/metro.txt entre La Défense et Jussieu : 1426.633762
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare d'Austerlitz : 1350.249195
+Valeur du PCC de graphes/metro.txt entre La Défense et Église d'Auteuil : 1761.995146
+Valeur du PCC de graphes/metro.txt entre La Défense et Michel Ange Auteuil : 1562.418341
+Valeur du PCC de graphes/metro.txt entre La Défense et Mairie des Lilas : 2064.958572
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte des Lilas : 1965.210219
+Valeur du PCC de graphes/metro.txt entre La Défense et Télégraphe : 1891.216407
+Valeur du PCC de graphes/metro.txt entre La Défense et Place des Fêtes : 1816.453725
+Valeur du PCC de graphes/metro.txt entre La Défense et Jourdain : 1750.605526
+Valeur du PCC de graphes/metro.txt entre La Défense et Pyrénées : 1698.131859
+Valeur du PCC de graphes/metro.txt entre La Défense et Belleville : 1606.848964
+Valeur du PCC de graphes/metro.txt entre La Défense et Goncourt : 1533.425080
+Valeur du PCC de graphes/metro.txt entre La Défense et République : 1437.163479
+Valeur du PCC de graphes/metro.txt entre La Défense et Arts et Métiers : 1380.302594
+Valeur du PCC de graphes/metro.txt entre La Défense et Rambuteau : 1316.516873
+Valeur du PCC de graphes/metro.txt entre La Défense et Hôtel de Ville : 1199.417651
+Valeur du PCC de graphes/metro.txt entre La Défense et Châtelet : 1128.940988
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de la Chapelle : 1975.503404
+Valeur du PCC de graphes/metro.txt entre La Défense et Marx Dormoy : 1900.901306
+Valeur du PCC de graphes/metro.txt entre La Défense et Marcadet Poissonniers : 1610.617024
+Valeur du PCC de graphes/metro.txt entre La Défense et Jules Joffrin : 1728.221104
+Valeur du PCC de graphes/metro.txt entre La Défense et Lamarck Caulaincourt : 1661.729965
+Valeur du PCC de graphes/metro.txt entre La Défense et Abbesses : 1595.543751
+Valeur du PCC de graphes/metro.txt entre La Défense et Pigalle : 1185.100925
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Georges : 1526.673257
+Valeur du PCC de graphes/metro.txt entre La Défense et Notre Dame de Lorette : 1472.560613
+Valeur du PCC de graphes/metro.txt entre La Défense et Trinité d'Estienne d'Orves : 1394.458519
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Lazare : 1114.934912
+Valeur du PCC de graphes/metro.txt entre La Défense et Madeleine : 1146.414925
+Valeur du PCC de graphes/metro.txt entre La Défense et Concorde : 844.899155
+Valeur du PCC de graphes/metro.txt entre La Défense et Assemblée Nationale : 1280.798761
+Valeur du PCC de graphes/metro.txt entre La Défense et Solférino : 1343.860485
+Valeur du PCC de graphes/metro.txt entre La Défense et Rue du Bac : 1399.567100
+Valeur du PCC de graphes/metro.txt entre La Défense et Sèvres Babylone : 1464.115458
+Valeur du PCC de graphes/metro.txt entre La Défense et Rennes : 1525.678143
+Valeur du PCC de graphes/metro.txt entre La Défense et Notre-Dame-des-Champs : 1584.639561
+Valeur du PCC de graphes/metro.txt entre La Défense et Montparnasse Bienvenue : 1403.257920
+Valeur du PCC de graphes/metro.txt entre La Défense et Falguière : 1719.122251
+Valeur du PCC de graphes/metro.txt entre La Défense et Pasteur : 1310.411316
+Valeur du PCC de graphes/metro.txt entre La Défense et Volontaires : 1743.325401
+Valeur du PCC de graphes/metro.txt entre La Défense et Vaugirard : 1817.354952
+Valeur du PCC de graphes/metro.txt entre La Défense et Convention : 1884.222341
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Versailles : 1974.788742
+Valeur du PCC de graphes/metro.txt entre La Défense et Corentin Celton : 2065.651981
+Valeur du PCC de graphes/metro.txt entre La Défense et Mairie d'Issy : 2142.960769
+Valeur du PCC de graphes/metro.txt entre La Défense et Gabriel Péri, Asnières-Gennevilliers : 1550.223028
+Valeur du PCC de graphes/metro.txt entre La Défense et Mairie de Clichy : 1432.117965
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Clichy : 966.470426
+Valeur du PCC de graphes/metro.txt entre La Défense et Brochant : 1401.514878
+Valeur du PCC de graphes/metro.txt entre La Défense et La Fourche : 1461.248744
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Denis-Université : 2167.491372
+Valeur du PCC de graphes/metro.txt entre La Défense et Basilique de Saint-Denis : 1998.614597
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Denis-Porte de Paris : 1994.125589
+Valeur du PCC de graphes/metro.txt entre La Défense et Carrefour Pleyel : 1867.878420
+Valeur du PCC de graphes/metro.txt entre La Défense et Mairie de Saint-Ouen : 1766.751392
+Valeur du PCC de graphes/metro.txt entre La Défense et Garibaldi : 1699.011480
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Saint-Ouen : 1583.401273
+Valeur du PCC de graphes/metro.txt entre La Défense et Guy Môquet : 1532.288284
+Valeur du PCC de graphes/metro.txt entre La Défense et Place de Clichy : 1052.414406
+Valeur du PCC de graphes/metro.txt entre La Défense et Liège : 1334.900147
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Lazare : 1114.934912
+Valeur du PCC de graphes/metro.txt entre La Défense et Miromesnil : 1188.874109
+Valeur du PCC de graphes/metro.txt entre La Défense et Champs Élysées, Clémenceau : 755.409989
+Valeur du PCC de graphes/metro.txt entre La Défense et Invalides : 1192.234823
+Valeur du PCC de graphes/metro.txt entre La Défense et Varenne : 1259.618372
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint-Francois Xavier : 1325.980617
+Valeur du PCC de graphes/metro.txt entre La Défense et Duroc : 1390.981284
+Valeur du PCC de graphes/metro.txt entre La Défense et Montparnasse Bienvenue : 1403.257920
+Valeur du PCC de graphes/metro.txt entre La Défense et Gaité : 1532.845489
+Valeur du PCC de graphes/metro.txt entre La Défense et Pernety : 1607.721617
+Valeur du PCC de graphes/metro.txt entre La Défense et Plaisance : 1671.527936
+Valeur du PCC de graphes/metro.txt entre La Défense et Porte de Vanves : 1760.033870
+Valeur du PCC de graphes/metro.txt entre La Défense et Malakoff-Plateau de Vanves : 1837.445386
+Valeur du PCC de graphes/metro.txt entre La Défense et Malakoff-Rue Étienne Dolet : 1915.853365
+Valeur du PCC de graphes/metro.txt entre La Défense et Châtillon-Montrouge : 1984.193816
+Valeur du PCC de graphes/metro.txt entre La Défense et Madeleine : 1146.414925
+Valeur du PCC de graphes/metro.txt entre La Défense et Pyramides : 1140.075803
+Valeur du PCC de graphes/metro.txt entre La Défense et Châtelet : 1128.940988
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare de Lyon : 750.249195
+Valeur du PCC de graphes/metro.txt entre La Défense et Bercy : 1198.060127
+Valeur du PCC de graphes/metro.txt entre La Défense et Cour Saint-Émilion : 1278.867859
+Valeur du PCC de graphes/metro.txt entre La Défense et Bibliothèque François Mitterand : 1359.114999
+Valeur du PCC de graphes/metro.txt entre La Défense et Montmartre bas : Chemin impossible
+Valeur du PCC de graphes/metro.txt entre La Défense et Montmartre haut : Chemin impossible
+Valeur du PCC de graphes/metro.txt entre La Défense et Saint Germain en Laye : 1345.523816
+Valeur du PCC de graphes/metro.txt entre La Défense et Le Vésinet-Le Pecq : 1207.152744
+Valeur du PCC de graphes/metro.txt entre La Défense et Le Vésinet Centre : 1101.459531
+Valeur du PCC de graphes/metro.txt entre La Défense et Chatou-Croissy : 941.537042
+Valeur du PCC de graphes/metro.txt entre La Défense et Rueil-Malmaison : 851.991007
+Valeur du PCC de graphes/metro.txt entre La Défense et Nanterre-Ville : 707.544247
+Valeur du PCC de graphes/metro.txt entre La Défense et Nanterre-Université : 568.348935
+Valeur du PCC de graphes/metro.txt entre La Défense et Nanterre-Préfecture : 124.710626
+Valeur du PCC de graphes/metro.txt entre La Défense et Cergy-Le Haut : 1956.966172
+Valeur du PCC de graphes/metro.txt entre La Défense et Cergy-Saint-Christophe : 1892.689106
+Valeur du PCC de graphes/metro.txt entre La Défense et Neuville-Université : 1594.011265
+Valeur du PCC de graphes/metro.txt entre La Défense et Conflans-Fin d'Oise : 1461.205423
+Valeur du PCC de graphes/metro.txt entre La Défense et Achères-Ville : 1325.771959
+Valeur du PCC de graphes/metro.txt entre La Défense et Maisons-Laffitte : 1002.017869
+Valeur du PCC de graphes/metro.txt entre La Défense et Sartrouville : 897.800079
+Valeur du PCC de graphes/metro.txt entre La Défense et Houilles, Carrières-sur-Seine : 739.666761
+Valeur du PCC de graphes/metro.txt entre La Défense et Nanterre-Préfecture : 124.710626
+Valeur du PCC de graphes/metro.txt entre La Défense et Poissy : 1903.116275
+Valeur du PCC de graphes/metro.txt entre La Défense et Achères, Grand Cormier : 1629.790847
+Valeur du PCC de graphes/metro.txt entre La Défense et Maisons-Laffitte : 1002.017869
+Valeur du PCC de graphes/metro.txt entre La Défense et Nanterre-Préfecture : 124.710626
+Valeur du PCC de graphes/metro.txt entre La Défense et La Défense : 0.000000
+Valeur du PCC de graphes/metro.txt entre La Défense et Charles de Gaulle, Étoile : 278.218499
+Valeur du PCC de graphes/metro.txt entre La Défense et Auber : 465.018911
+Valeur du PCC de graphes/metro.txt entre La Défense et Châtelet Les Halles : 581.226793
+Valeur du PCC de graphes/metro.txt entre La Défense et Gare de Lyon : 750.249195
+Valeur du PCC de graphes/metro.txt entre La Défense et Nation : 890.349923

@@ -1,0 +1,18 @@
+Valeur du PCC de graphes/metro.txt entre Goncourt et Villepinte : 2624.311925
+Chemin parcouru
+Goncourt pcc 0.00
+République pcc 68.83
+Correspondance a République pcc 428.83, prendre la ligne M5
+Jacques Bonsergent pcc 496.75
+Gare de l'Est pcc 578.90
+Gare du Nord pcc 646.59
+Correspondance a Gare du Nord pcc 1006.59, prendre la ligne B
+La Plaine, Stade de France pcc 1202.45
+La Courneuve, Aubervilliers pcc 1354.97
+Le Bourget pcc 1552.03
+Drancy pcc 1707.89
+Blanc Mesnil pcc 1841.48
+Aulnay-sous-Bois pcc 1968.32
+Correspondance a Aulnay-sous-Bois pcc 2328.32, prendre la ligne B3
+Sevran Beaudottes pcc 2504.52
+Villepinte pcc 2624.31

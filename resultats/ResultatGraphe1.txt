@@ -1,0 +1,248 @@
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Aaa : 0.000000
+Chemin parcouru
+Aaa pcc 0.00
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Baa : 5.000000
+Chemin parcouru
+Aaa pcc 0.00
+Baa pcc 5.00
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Caa : 15.000000
+Chemin parcouru
+Aaa pcc 0.00
+Baa pcc 5.00
+Caa pcc 15.00
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Daa : 25.000000
+Chemin parcouru
+Aaa pcc 0.00
+Baa pcc 5.00
+Caa pcc 15.00
+Daa pcc 25.00
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Eaa : 12.000000
+Chemin parcouru
+Aaa pcc 0.00
+Baa pcc 5.00
+Eaa pcc 12.00
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Faa : 22.000000
+Chemin parcouru
+Aaa pcc 0.00
+Baa pcc 5.00
+Eaa pcc 12.00
+Faa pcc 22.00
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Gaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Aaa et Haa : 32.000000
+Chemin parcouru
+Aaa pcc 0.00
+Baa pcc 5.00
+Eaa pcc 12.00
+Faa pcc 22.00
+Haa pcc 32.00
+Valeur du PCC de graphes/graphe1.txt entre Baa et Aaa : 5.000000
+Chemin parcouru
+Baa pcc 0.00
+Aaa pcc 5.00
+Valeur du PCC de graphes/graphe1.txt entre Baa et Baa : 0.000000
+Chemin parcouru
+Baa pcc 0.00
+Valeur du PCC de graphes/graphe1.txt entre Baa et Caa : 10.000000
+Chemin parcouru
+Baa pcc 0.00
+Caa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Baa et Daa : 20.000000
+Chemin parcouru
+Baa pcc 0.00
+Caa pcc 10.00
+Daa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Baa et Eaa : 7.000000
+Chemin parcouru
+Baa pcc 0.00
+Eaa pcc 7.00
+Valeur du PCC de graphes/graphe1.txt entre Baa et Faa : 17.000000
+Chemin parcouru
+Baa pcc 0.00
+Eaa pcc 7.00
+Faa pcc 17.00
+Valeur du PCC de graphes/graphe1.txt entre Baa et Gaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Baa et Haa : 27.000000
+Chemin parcouru
+Baa pcc 0.00
+Eaa pcc 7.00
+Faa pcc 17.00
+Haa pcc 27.00
+Valeur du PCC de graphes/graphe1.txt entre Caa et Aaa : 15.000000
+Chemin parcouru
+Caa pcc 0.00
+Baa pcc 10.00
+Aaa pcc 15.00
+Valeur du PCC de graphes/graphe1.txt entre Caa et Baa : 10.000000
+Chemin parcouru
+Caa pcc 0.00
+Baa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Caa et Caa : 0.000000
+Chemin parcouru
+Caa pcc 0.00
+Valeur du PCC de graphes/graphe1.txt entre Caa et Daa : 10.000000
+Chemin parcouru
+Caa pcc 0.00
+Daa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Caa et Eaa : 17.000000
+Chemin parcouru
+Caa pcc 0.00
+Baa pcc 10.00
+Eaa pcc 17.00
+Valeur du PCC de graphes/graphe1.txt entre Caa et Faa : 10.000000
+Chemin parcouru
+Caa pcc 0.00
+Faa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Caa et Gaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Caa et Haa : 20.000000
+Chemin parcouru
+Caa pcc 0.00
+Faa pcc 10.00
+Haa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Daa et Aaa : 25.000000
+Chemin parcouru
+Daa pcc 0.00
+Caa pcc 10.00
+Baa pcc 20.00
+Aaa pcc 25.00
+Valeur du PCC de graphes/graphe1.txt entre Daa et Baa : 20.000000
+Chemin parcouru
+Daa pcc 0.00
+Caa pcc 10.00
+Baa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Daa et Caa : 10.000000
+Chemin parcouru
+Daa pcc 0.00
+Caa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Daa et Daa : 0.000000
+Chemin parcouru
+Daa pcc 0.00
+Valeur du PCC de graphes/graphe1.txt entre Daa et Eaa : 27.000000
+Chemin parcouru
+Daa pcc 0.00
+Caa pcc 10.00
+Baa pcc 20.00
+Eaa pcc 27.00
+Valeur du PCC de graphes/graphe1.txt entre Daa et Faa : 20.000000
+Chemin parcouru
+Daa pcc 0.00
+Caa pcc 10.00
+Faa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Daa et Gaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Daa et Haa : 30.000000
+Chemin parcouru
+Daa pcc 0.00
+Caa pcc 10.00
+Faa pcc 20.00
+Haa pcc 30.00
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Aaa : 12.000000
+Chemin parcouru
+Eaa pcc 0.00
+Baa pcc 7.00
+Aaa pcc 12.00
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Baa : 7.000000
+Chemin parcouru
+Eaa pcc 0.00
+Baa pcc 7.00
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Caa : 17.000000
+Chemin parcouru
+Eaa pcc 0.00
+Baa pcc 7.00
+Caa pcc 17.00
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Daa : 27.000000
+Chemin parcouru
+Eaa pcc 0.00
+Baa pcc 7.00
+Caa pcc 17.00
+Daa pcc 27.00
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Eaa : 0.000000
+Chemin parcouru
+Eaa pcc 0.00
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Faa : 10.000000
+Chemin parcouru
+Eaa pcc 0.00
+Faa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Gaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Eaa et Haa : 20.000000
+Chemin parcouru
+Eaa pcc 0.00
+Faa pcc 10.00
+Haa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Faa et Aaa : 22.000000
+Chemin parcouru
+Faa pcc 0.00
+Eaa pcc 10.00
+Baa pcc 17.00
+Aaa pcc 22.00
+Valeur du PCC de graphes/graphe1.txt entre Faa et Baa : 17.000000
+Chemin parcouru
+Faa pcc 0.00
+Eaa pcc 10.00
+Baa pcc 17.00
+Valeur du PCC de graphes/graphe1.txt entre Faa et Caa : 10.000000
+Chemin parcouru
+Faa pcc 0.00
+Caa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Faa et Daa : 20.000000
+Chemin parcouru
+Faa pcc 0.00
+Caa pcc 10.00
+Daa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Faa et Eaa : 10.000000
+Chemin parcouru
+Faa pcc 0.00
+Eaa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Faa et Faa : 0.000000
+Chemin parcouru
+Faa pcc 0.00
+Valeur du PCC de graphes/graphe1.txt entre Faa et Gaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Faa et Haa : 10.000000
+Chemin parcouru
+Faa pcc 0.00
+Haa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Aaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Baa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Caa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Daa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Eaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Faa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Gaa : 0.000000
+Chemin parcouru
+Gaa pcc 0.00
+Valeur du PCC de graphes/graphe1.txt entre Gaa et Haa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Haa et Aaa : 32.000000
+Chemin parcouru
+Haa pcc 0.00
+Faa pcc 10.00
+Eaa pcc 20.00
+Baa pcc 27.00
+Aaa pcc 32.00
+Valeur du PCC de graphes/graphe1.txt entre Haa et Baa : 27.000000
+Chemin parcouru
+Haa pcc 0.00
+Faa pcc 10.00
+Eaa pcc 20.00
+Baa pcc 27.00
+Valeur du PCC de graphes/graphe1.txt entre Haa et Caa : 20.000000
+Chemin parcouru
+Haa pcc 0.00
+Faa pcc 10.00
+Caa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Haa et Daa : 30.000000
+Chemin parcouru
+Haa pcc 0.00
+Faa pcc 10.00
+Caa pcc 20.00
+Daa pcc 30.00
+Valeur du PCC de graphes/graphe1.txt entre Haa et Eaa : 20.000000
+Chemin parcouru
+Haa pcc 0.00
+Faa pcc 10.00
+Eaa pcc 20.00
+Valeur du PCC de graphes/graphe1.txt entre Haa et Faa : 10.000000
+Chemin parcouru
+Haa pcc 0.00
+Faa pcc 10.00
+Valeur du PCC de graphes/graphe1.txt entre Haa et Gaa : Chemin impossible
+Valeur du PCC de graphes/graphe1.txt entre Haa et Haa : 0.000000
+Chemin parcouru
+Haa pcc 0.00
